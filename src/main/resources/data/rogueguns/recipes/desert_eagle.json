@@ -1,0 +1,20 @@
+{
+  "type": "jeg:gunmetal_workbench",
+  "result": {
+    "item": "rogueguns:desert_eagle"
+  },
+  "materials": [
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 14
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": 3
+    },
+    {
+      "item": "jeg:gunmetal_ingot",
+      "count": 6
+    }
+  ]
+}

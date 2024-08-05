@@ -1,0 +1,8 @@
+{
+  "item.desert_eagle.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name":  "rogueguns:item/desert_eagle/fire" }
+    ]
+  }
+}
