@@ -33,14 +33,14 @@
   },
   "display": {
     "flash": {
-      "yOffset": 7.5,
-      "zOffset": -22.5,
+      "yOffset": 5.2,
+      "zOffset": -23.5,
       "size": 1.3
     }
   },
   "modules": {
     "zoom": {
-      "yOffset": 7.0,
+      "yOffset": 5.4,
       "zOffset": 7.5,
       "fovModifier": 0.6
     },

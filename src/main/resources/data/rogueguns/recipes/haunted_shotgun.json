@@ -5,16 +5,24 @@
   },
   "materials": [
     {
+      "item": "jeg:gunnite_ingot",
+      "count": 22
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": 7
+    },
+    {
       "item": "minecraft:stripped_warped_stem",
       "count": 6
     },
     {
-      "item": "minecraft:gunpowder",
-      "count": 3
+      "item": "jeg:scrap",
+      "count": 64
     },
     {
-      "item": "jeg:gunnite_ingot",
-      "count": 16
+      "item": "jeg:ectoplasm",
+      "count": 24
     }
   ]
 }
