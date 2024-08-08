@@ -105,7 +105,7 @@ repositories {
 dependencies {
     minecraft 'net.minecraftforge:forge:1.20.1-47.2.0'
     implementation fg.deobf('curse.maven:framework-549225:4718251')
-    implementation fg.deobf('curse.maven:just-enough-guns-820727:5322334')
+    implementation fg.deobf('curse.maven:just-enough-guns-820727:5180972')
 
 }
 
